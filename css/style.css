@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+}
+
+.menu {
+    background-color: black;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+h1 {
+    color: darkblue;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+}
